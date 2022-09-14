@@ -1,0 +1,398 @@
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_3-10.wav|"The man said, ""I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_71-5.wav|For you are my hope, Lord Yahweh; my confidence from my youth.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Numbers_1-41.wav|those who were numbered of them, of the tribe of Asher, were forty-one thousand five hundred.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(1)_19-9.wav|An evil spirit from Yahweh was on Saul, as he sat in his house with his spear in his hand; and David was playing with his hand.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Mark_8-8.wav|They ate, and were filled. They took up seven baskets of broken pieces that were left over.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_7-14.wav|therefore will I do to the house which is called by my name, in which you trust, and to the place which I gave to you and to your fathers, as I did to Shiloh.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_13-5.wav|They come from a far country, from the uttermost part of heaven, even Yahweh, and the weapons of his indignation, to destroy the whole land.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_137-1.wav|By the rivers of Babylon, there we sat down. Yes, we wept, when we remembered Zion.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_23-9.wav|Jehoiada the priest delivered to the captains of hundreds the spears, and bucklers, and shields, that had been king David's, which were in the house of God.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_30-4.wav|Sing praise to Yahweh, you saints of his. Give thanks to his holy name.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(1)_2-18.wav|Bathsheba said, Well; I will speak for you to the king.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_41-35.wav|Let them gather all the food of these good years that come, and lay up grain under the hand of Pharaoh for food in the cities, and let them keep it.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Mark_13-24.wav|But in those days, after that oppression, the sun will be darkened, the moon will not give its light,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_18-14.wav|"Is anything too hard for Yahweh? At the set time I will return to you, when the season comes round, and Sarah will have a son."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_38-41.wav|Who provides for the raven his prey, when his young ones cry to God, and wander for lack of food?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_6-24.wav|When the multitude therefore saw that Jesus wasn't there, nor his disciples, they themselves got into the boats, and came to Capernaum, seeking Jesus.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_37-11.wav|His brothers envied him, but his father kept this saying in mind.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Peter(2)__3-17.wav|You therefore, beloved, knowing these things beforehand, beware, lest being carried away with the error of the wicked, you fall from your own steadfastness.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_7-6.wav|[The sons of] Benjamin: Bela, and Becher, and Jediael, three.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_48-2.wav|(for they call themselves of the holy city, and stay themselves on the God of Israel; Yahweh of Armies is his name):|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ephesians_3-2.wav|if it is so that you have heard of the administration of that grace of God which was given me toward you;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_38-8.wav|He made the basin of brass, and its base of brass, out of the mirrors of the ministering women who ministered at the door of the tent of meeting.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(2)_3-8.wav|won't service of the Spirit be with much more glory?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_11-16.wav|It happened, when Joab kept watch on the city, that he assigned Uriah to the place where he knew that valiant men were.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(1)_14-19.wav|The rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_7-9.wav|Having said these things to them, he stayed in Galilee.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_4-41.wav|Many more believed because of his word.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_13-2.wav|Great multitudes gathered to him, so that he entered into a boat, and sat, and all the multitude stood on the beach.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(2)_5-21.wav|For him who knew no sin he made to be sin on our behalf; so that in him we might become the righteousness of God.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Acts_1-8.wav|"But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_14-18.wav|"He said, ""Bring them here to me."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Deuteronomy_3-26.wav|But Yahweh was angry with me for your sakes, and didn't listen to me; and Yahweh said to me, Let it suffice you; speak no more to me of this matter.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_35-4.wav|I will lay your cities waste, and you shall be desolate; and you shall know that I am Yahweh.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_107-16.wav|For he has broken the gates of brass, and cut through bars of iron.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_32-9.wav|I will also vex the hearts of many peoples, when I shall bring your destruction among the nations, into the countries which you have not known.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Revelation_13-15.wav|It was given to him to give breath to it, to the image of the beast, that the image of the beast should both speak, and cause as many as wouldn't worship the image of the beast to be killed.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_50-1.wav|<<A Psalm by Asaph.>> The Mighty One, God, Yahweh, speaks, and calls the earth from sunrise to sunset.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_4-3.wav|"The devil said to him, ""If you are the Son of God, command this stone to become bread."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_21-31.wav|The horse is prepared for the day of battle; but victory is with Yahweh.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_9-2.wav|Solomon told her all her questions; and there was not anything hid from Solomon which he didn't tell her.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_23-4.wav|For they bind heavy burdens that are grievous to be borne, and lay them on men's shoulders; but they themselves will not lift a finger to help them.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_20-14.wav|"But when the farmers saw him, they reasoned among themselves, saying, 'This is the heir. Come, let's kill him, that the inheritance may be ours.'|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(1)_17-54.wav|David took the head of the Philistine, and brought it to Jerusalem; but he put his armor in his tent.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_9-19.wav|Twelve lions stood there on the one side and on the other on the six steps: there was nothing like it made in any kingdom.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_116-4.wav|Then called I on the name of Yahweh: Yahweh, I beg you, deliver my soul."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_28-12.wav|"to whom he said, ""This is the resting place. Give rest to weary;"" and ""This is the refreshing;"" yet they would not hear."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_8-5.wav|If you want to seek God diligently, make your supplication to the Almighty.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_9-20.wav|Phinehas the son of Eleazar was ruler over them in time past, [and] Yahweh was with him.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_119-117.wav|Hold me up, and I will be safe, and will have respect for your statutes continually.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Acts_2-44.wav|All who believed were together, and had all things in common.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_5-3.wav|You shall take of it a few in number, and bind them in your skirts.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_139-23.wav|Search me, God, and know my heart. Try me, and know my thoughts.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_30-30.wav|You shall anoint Aaron and his sons, and sanctify them, that they may minister to me in the priest's office.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(2)_6-11.wav|Our mouth is open to you, Corinthians. Our heart is enlarged.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_19-3.wav|The people got them by stealth that day into the city, as people who are ashamed steal away when they flee in battle.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ecclesiastes_4-3.wav|Yes, better than them both is him who has not yet been, who has not seen the evil work that is done under the sun.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_19-10.wav|Your mother was like a vine, in your blood, planted by the waters: it was fruitful and full of branches by reason of many waters.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Numbers_13-7.wav|Of the tribe of Issachar, Igal the son of Joseph.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_18-21.wav|"Surely such are the dwellings of the unrighteous. This is the place of him who doesn't know God."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_16-5.wav|The disciples came to the other side and had forgotten to take bread.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hosea_7-12.wav|When they go, I will spread my net on them. I will bring them down like the birds of the sky. I will chastise them, as their congregation has heard.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Mark_4-24.wav|"He said to them, ""Take heed what you hear. With whatever measure you measure, it will be measured to you, and more will be given to you who hear."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_15-28.wav|"Behold, I will stay at the fords of the wilderness, until word comes from you to inform me."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_4-13.wav|Yahweh said, Even thus shall the children of Israel eat their bread unclean, among the nations where I will drive them.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_12-14.wav|A man shall be satisfied with good by the fruit of his mouth. The work of a man's hands shall be rewarded to him.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_26-11.wav|As a dog that returns to his vomit, so is a fool who repeats his folly.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_31-19.wav|if I have seen any perish for want of clothing, or that the needy had no covering;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_7-24.wav|People will go there with arrows and with bow, because all the land will be briers and thorns.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(1)_24-22.wav|David swore to Saul. Saul went home; but David and his men got them up to the stronghold.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_42-21.wav|It pleased Yahweh, for his righteousness' sake, to magnify the law, and make it honorable.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Numbers_13-11.wav|Of the tribe of Joseph, [namely], of the tribe of Manasseh, Gaddi the son of Susi.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_15-7.wav|of the sons of Gershom, Joel the chief, and his brothers one hundred thirty;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_27-26.wav|Then he released to them Barabbas, but Jesus he flogged and delivered to be crucified.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(1)_5-6.wav|But the hand of Yahweh was heavy on them of Ashdod, and he destroyed them, and struck them with tumors, even Ashdod and the borders of it.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hebrews_5-9.wav|Having been made perfect, he became to all of those who obey him the author of eternal salvation,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_21-27.wav|I will overturn, overturn, overturn it: this also shall be no more, until he come whose right it is; and I will give it [him].|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_1-30.wav|For you shall be as an oak whose leaf fades, and as a garden that has no water.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_6-3.wav|or has found that which was lost, and dealt falsely therein, and swearing to a lie; in any of all these things that a man does, sinning therein;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(1)_1-18.wav|For the word of the cross is foolishness to those who are dying, but to us who are saved it is the power of God.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_31-11.wav|The angel of God said to me in the dream, 'Jacob,' and I said, 'Here I am.'|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_14-8.wav|"When you are invited by anyone to a marriage feast, don't sit in the best seat, since perhaps someone more honorable than you might be invited by him,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Daniel_10-11.wav|He said to me, Daniel, you man greatly beloved, understand the words that I speak to you, and stand upright; for to you am I now sent. When he had spoken this word to me, I stood trembling.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_45-27.wav|They told him all the words of Joseph, which he had said to them. When he saw the wagons which Joseph had sent to carry him, the spirit of Jacob, their father, revived.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(2)_7-1.wav|Elisha said, Hear you the word of Yahweh: thus says Yahweh, Tomorrow about this time shall a measure of fine flour be [sold] for a shekel, and two measures of barley for a shekel, in the gate of Samaria.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(2)_6-2.wav|Let us go, we pray you, to the Jordan, and take there every man a beam, and let us make us a place there, where we may dwell. He answered, Go you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Deuteronomy_12-17.wav|You may not eat within your gates the tithe of your grain, or of your new wine, or of your oil, or the firstborn of your herd or of your flock, nor any of your vows which you vow, nor your freewill offerings, nor the wave offering of your hand;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_7-3.wav|so am I made to possess months of misery, wearisome nights are appointed to me.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Esther_9-16.wav|The other Jews who were in the king's provinces gathered themselves together, defended their lives, had rest from their enemies, and killed seventy-five thousand of those who hated them; but they didn't lay their hand on the plunder.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_16-28.wav|for I have five brothers, that he may testify to them, so they won't also come into this place of torment.'|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_71-3.wav|Be to me a rock of refuge to which I may always go. Give the command to save me, for you are my rock and my fortress.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Daniel_4-11.wav|The tree grew, and was strong, and the height of it reached to the sky, and the sight of it to the end of all the earth.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Deuteronomy_10-16.wav|Circumcise therefore the foreskin of your heart, and be no more stiff-necked.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_9-8.wav|Blessed be Yahweh your God, who delighted in you, to set you on his throne, to be king for Yahweh your God: because your God loved Israel, to establish them forever, therefore made he you king over them, to do justice and righteousness.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_32-13.wav|Thorns and briars will come up on my people's land; yes, on all the houses of joy in the joyous city.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_44-10.wav|He said, Now also let it be according to your words: he with whom it is found will be my bondservant; and you will be blameless."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_25-1.wav|Yahweh said to Moses in Mount Sinai,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Deuteronomy_14-12.wav|But these are they of which you shall not eat: the eagle, and the vulture, and the osprey,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_2-14.wav|The name of the third river is Hiddekel: this is the one which flows in front of Assyria. The fourth river is the Euphrates.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_20-32.wav|Afterward the woman also died.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_23-8.wav|"But you shall offer an offering made by fire to Yahweh seven days. In the seventh day is a holy convocation: you shall do no regular work.'"""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Joshua_11-22.wav|There was none of the Anakim left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, did some remain.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Romans_12-8.wav|or he who exhorts, to his exhorting: he who gives, let him do it with liberality; he who rules, with diligence; he who shows mercy, with cheerfulness.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hebrews_5-2.wav|The high priest can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_24-3.wav|They entered in, and didn't find the Lord Jesus' body.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Acts_8-29.wav|"The Spirit said to Philip, ""Go near, and join yourself to this chariot."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Nehemiah_7-44.wav|The singers: the children of Asaph, one hundred forty-eight.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_41-21.wav|As for the temple, the door posts were squared; and as for the face of the sanctuary, the appearance [of it] was as the appearance [of the temple].|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_7-33.wav|He among the sons of Aaron who offers the blood of the peace offerings, and the fat, shall have the right thigh for a portion.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hosea_5-3.wav|I know Ephraim, and Israel is not hidden from me; for now, Ephraim, you have played the prostitute. Israel is defiled.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_9-21.wav|"but how he now sees, we don't know; or who opened his eyes, we don't know. He is of age. Ask him. He will speak for himself."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_9-10.wav|It happened as he sat in the house, behold, many tax collectors and sinners came and sat down with Jesus and his disciples.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Joshua_5-8.wav|It happened, when they were done circumcising all the nation, that they stayed in their places in the camp until they were healed.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Numbers_7-36.wav|On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_36-12.wav|He made fifty loops in the one curtain, and he made fifty loops in the edge of the curtain that was in the second coupling. The loops were opposite one to another.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_27-33.wav|When your wares went forth out of the seas, you filled many peoples; you did enrich the kings of the earth with the multitude of your riches and of your merchandise.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_85-12.wav|Yes, Yahweh will give that which is good. Our land will yield its increase.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_23-5.wav|Why do you set your eyes on that which is not? For it certainly sprouts wings like an eagle and flies in the sky.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Revelation_11-17.wav|"saying: ""We give you thanks, Lord God, the Almighty, the one who is and who was; because you have taken your great power, and reigned."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_109-9.wav|Let his children be fatherless, and his wife a widow.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(1)_18-16.wav|So Obadiah went to meet Ahab, and told him; and Ahab went to meet Elijah.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezra_2-19.wav|The children of Hashum, two hundred Twenty-three.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Numbers_9-1.wav|Yahweh spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Timothy(1)_4-16.wav|Pay attention to yourself, and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_22-26.wav|With the merciful you will show yourself merciful. With the perfect man you will show yourself perfect.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_107-28.wav|Then they cry to Yahweh in their trouble, and he brings them out of their distress.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(2)_12-14.wav|for they gave that to those who did the work, and repaired therewith the house of Yahweh.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Romans_1-1.wav|Paul, a servant of Jesus Christ, called to be an apostle, set apart for the Good News of God,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_35-9.wav|God appeared to Jacob again, when he came from Paddan Aram, and blessed him.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(1)_21-3.wav|Naboth said to Ahab, Yahweh forbid it me, that I should give the inheritance of my fathers to you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_10-5.wav|"They will by no means follow a stranger, but will flee from him; for they don't know the voice of strangers."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Deuteronomy_12-13.wav|Take heed to yourself that you don't offer your burnt offerings in every place that you see;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(1)_2-14.wav|Now the natural man doesn't receive the things of God's Spirit, for they are foolishness to him, and he can't know them, because they are spiritually discerned.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_6-15.wav|So David and all the house of Israel brought up the ark of Yahweh with shouting, and with the sound of the trumpet.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Acts_26-9.wav|"I myself most certainly thought that I ought to do many things contrary to the name of Jesus of Nazareth.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_4-15.wav|For a voice declares from Dan, and publishes evil from the hills of Ephraim:|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Acts_1-19.wav|It became known to everyone who lived in Jerusalem that in their language that field was called 'Akeldama,' that is, 'The field of blood.'|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_15-10.wav|So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_38-6.wav|Then took they Jeremiah, and cast him into the dungeon of Malchijah the king's son, that was in the court of the guard: and they let down Jeremiah with cords. In the dungeon there was no water, but mire; and Jeremiah sank in the mire.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_40-34.wav|The arches of it were toward the outer court; and palm trees were on the posts of it, on this side, and on that side: and the ascent to it had eight steps.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(2)_17-4.wav|The king of Assyria found conspiracy in Hoshea; for he had sent messengers to So king of Egypt, and offered no tribute to the king of Assyria, as he had done year by year: therefore the king of Assyria shut him up, and bound him in prison.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_28-18.wav|and for the altar of incense refined gold by weight; and gold for the pattern of the chariot, [even] the cherubim, that spread out [their wings], and covered the ark of the covenant of Yahweh.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Daniel_4-28.wav|All this came on the king Nebuchadnezzar.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_5-10.wav|Blessed are those who have been persecuted for righteousness' sake, for theirs is the Kingdom of Heaven.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_17-21.wav|neither will they say, 'Look, here!' or, 'Look, there!' for behold, the Kingdom of God is within you."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_15-24.wav|for this, my son, was dead, and is alive again. He was lost, and is found.' They began to celebrate.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_2-11.wav|The name of the first is Pishon: this is the one which flows through the whole land of Havilah, where there is gold;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_24-11.wav|the ninth to Jeshua, the tenth to Shecaniah,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(1)_28-5.wav|When Saul saw the army of the Philistines, he was afraid, and his heart trembled greatly.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Mark_7-37.wav|"They were astonished beyond measure, saying, ""He has done all things well. He makes even the deaf hear, and the mute speak!"""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Romans_2-16.wav|in the day when God will judge the secrets of men, according to my Good News, by Jesus Christ.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_15-18.wav|A wrathful man stirs up contention, but one who is slow to anger appeases strife.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_14-23.wav|In all hard work there is profit, but the talk of the lips leads only to poverty.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Nehemiah_12-34.wav|Judah, and Benjamin, and Shemaiah, and Jeremiah,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_55-13.wav|But it was you, a man like me, my companion, and my familiar friend.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_103-17.wav|But Yahweh's loving kindness is from everlasting to everlasting with those who fear him, his righteousness to children's children;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_10-15.wav|The rich man's wealth is his strong city. The destruction of the poor is their poverty.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_25-30.wav|"Esau said to Jacob, ""Please feed me with that same red stew, for I am famished."" Therefore his name was called Edom."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_22-22.wav|When they heard it, they marveled, and left him, and went away.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_96-8.wav|Ascribe to Yahweh the glory due to his name. Bring an offering, and come into his courts.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_6-42.wav|Yahweh God, don't turn away the face of your anointed: remember [your] loving kindnesses to David your servant.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_22-23.wav|for Yahweh will plead their case, and plunder the life of those who plunder them.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_102-13.wav|You will arise and have mercy on Zion; for it is time to have pity on her. Yes, the set time has come.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(1)_14-4.wav|He who speaks in another language edifies himself, but he who prophesies edifies the assembly.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Romans_12-16.wav|Be of the same mind one toward another. Don't set your mind on high things, but associate with the humble. Don't be wise in your own conceits.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_20-24.wav|But Thomas, one of the twelve, called Didymus, wasn't with them when Jesus came.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Titus_3-7.wav|that, being justified by his grace, we might be made heirs according to the hope of eternal life.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_5-29.wav|and will come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Peter(2)__1-6.wav|and in knowledge, self-control; and in self-control patience; and in patience godliness;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Micah_7-6.wav|For the son dishonors the father, the daughter rises up against her mother, the daughter-in-law against her mother-in-law; a man's enemies are the men of his own house.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_89-50.wav|Remember, Lord, the reproach of your servants, how I bear in my heart the taunts of all the mighty peoples,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Mark_14-26.wav|When they had sung a hymn, they went out to the Mount of Olives.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Romans_6-7.wav|For he who has died has been freed from sin.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Zephaniah_1-5.wav|those who worship the army of the sky on the housetops, those who worship and swear by Yahweh and also swear by Malcam,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_31-8.wav|the table and its vessels, the pure lampstand with all its vessels, the altar of incense,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_30-15.wav|The rich shall not give more, and the poor shall not give less, than the half shekel, when they give the offering of Yahweh, to make atonement for your souls.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_14-6.wav|The wild donkeys stand on the bare heights, they pant for air like jackals; their eyes fail, because there is no herbage.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_13-3.wav|He went on his journeys from the South even to Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_22-27.wav|After them all, the woman died.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Numbers_2-27.wav|"Those who encamp next to him shall be the tribe of Asher: and the prince of the children of Asher shall be Pagiel the son of Ochran.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hebrews_9-15.wav|For this reason he is the mediator of a new covenant, since a death has occurred for the redemption of the transgressions that were under the first covenant, that those who have been called may receive the promise of the eternal inheritance.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Revelation_2-2.wav|I know your works, and your toil and perseverance, and that you can't tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_29-3.wav|He in the first year of his reign, in the first month, opened the doors of the house of Yahweh, and repaired them.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_29-3.wav|Yahweh's voice is on the waters. The God of glory thunders, even Yahweh on many waters.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_52-16.wav|But Nebuzaradan the captain of the guard left of the poorest of the land to be vineyard keepers and farmers.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_22-21.wav|Save me from the lion's mouth! Yes, from the horns of the wild oxen, you have answered me.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_27-2.wav|"In that day, sing to her, ""A pleasant vineyard!"|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_32-30.wav|"Jacob called the name of the place Peniel: for, he said, ""I have seen God face to face, and my life is preserved."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hosea_7-2.wav|They don't consider in their hearts that I remember all their wickedness. Now their own deeds have engulfed them. They are before my face.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_2-7.wav|You shall speak my words to them, whether they will hear, or whether they will forbear; for they are most rebellious.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_13-51.wav|"Jesus said to them, ""Have you understood all these things?"" They answered him, ""Yes, Lord."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Timothy(1)_5-8.wav|But if anyone doesn't provide for his own, and especially his own household, he has denied the faith, and is worse than an unbeliever.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Timothy(2)_2-26.wav|and they may recover themselves out of the devil's snare, having been taken captive by him to his will.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_40-4.wav|Blessed is the man who makes Yahweh his trust, and doesn't respect the proud, nor such as turn aside to lies.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_7-2.wav|You, son of man, thus says the Lord Yahweh to the land of Israel, An end: the end is come on the four corners of the land.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Joshua_2-23.wav|Then the two men returned, descended from the mountain, passed over, and came to Joshua the son of Nun; and they told him all that had happened to them.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(1)_15-13.wav|Samuel came to Saul; and Saul said to him, Blessed are you by Yahweh: I have performed the commandment of Yahweh.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_24-27.wav|Beginning from Moses and from all the prophets, he explained to them in all the Scriptures the things concerning himself.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Deuteronomy_6-16.wav|You shall not tempt Yahweh your God, as you tempted him in Massah.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_1-25.wav|"They asked him, ""Why then do you baptize, if you are not the Christ, nor Elijah, nor the Prophet?"""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Romans_12-18.wav|If it is possible, as much as it is up to you, be at peace with all men.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_20-8.wav|He shall fly away as a dream, and shall not be found. Yes, he shall be chased away like a vision of the night.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Zechariah_8-2.wav|"Thus says Yahweh of Armies: ""I am jealous for Zion with great jealousy, and I am jealous for her with great wrath."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Mark_3-16.wav|Simon, to whom he gave the name Peter;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_7-23.wav|It will happen in that day that every place where there were a thousand vines at a thousand silver shekels, shall be for briers and thorns.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_36-25.wav|All men have looked thereon. Man sees it afar off.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_22-23.wav|I will fasten him like a nail in a sure place. He will be for a throne of glory to his father's house.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_32-3.wav|When I kept silence, my bones wasted away through my groaning all day long.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(2)_1-15.wav|The angel of Yahweh said to Elijah, Go down with him: don't be afraid of him. He arose, and went down with him to the king.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_12-17.wav|Moreover the word of Yahweh came to me, saying,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_18-12.wav|Moreover Abishai the son of Zeruiah struck of the Edomites in the Valley of Salt eighteen thousand.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hebrews_3-4.wav|For every house is built by someone; but he who built all things is God.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Numbers_9-19.wav|When the cloud stayed on the tabernacle many days, then the children of Israel kept the charge of Yahweh, and didn't travel.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Acts_2-25.wav|For David says concerning him, 'I saw the Lord always before my face, For he is on my right hand, that I should not be moved.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_18-11.wav|Joab said to the man who told him, Behold, you saw it, and why didn't you strike him there to the ground? and I would have given you ten [pieces of] silver, and a sash.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_11-3.wav|Speak to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_50-23.wav|How is the hammer of the whole earth cut apart and broken! how is Babylon become a desolation among the nations!|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_102-9.wav|For I have eaten ashes like bread, and mixed my drink with tears,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_8-34.wav|When those who fed them saw what had happened, they fled, and told it in the city and in the country.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_5-5.wav|Thus says the Lord Yahweh: This is Jerusalem; I have set her in the midst of the nations, and countries are round about her.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(1)_2-40.wav|Shimei arose, and saddled his donkey, and went to Gath to Achish, to seek his servants; and Shimei went, and brought his servants from Gath.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_10-19.wav|But when they deliver you up, don't be anxious how or what you will say, for it will be given you in that hour what you will say.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_32-13.wav|Beware lest you say, 'We have found wisdom, God may refute him, not man;'|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_71-9.wav|Don't reject me in my old age. Don't forsake me when my strength fails.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_27-9.wav|Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his place.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_22-3.wav|All your rulers fled away together. They were bound by the archers. All who were found by you were bound together. They fled far away.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_129-3.wav|The plowers plowed on my back. They made their furrows long.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Romans_3-13.wav|"Their throat is an open tomb. With their tongues they have used deceit. ""The poison of vipers is under their lips;"""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_25-19.wav|Make one cherub at the one end, and one cherub at the other end. You shall make the cherubim on its two ends of one piece with the mercy seat.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_26-12.wav|Do you see a man wise in his own eyes? There is more hope for a fool than for him.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_21-14.wav|So Yahweh sent a pestilence on Israel; and there fell of Israel seventy thousand men.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(1)_9-27.wav|Hiram sent in the navy his servants, sailors who had knowledge of the sea, with the servants of Solomon.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Esther_9-30.wav|He sent letters to all the Jews, to the hundred twenty-seven provinces of the kingdom of Ahasuerus, with words of peace and truth,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(2)_8-6.wav|So we urged Titus, that as he made a beginning before, so he would also complete in you this grace.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_31-48.wav|"Laban said, ""This heap is witness between me and you this day."" Therefore it was named Galeed"|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_13-12.wav|Hope deferred makes the heart sick, but when longing is fulfilled, it is a tree of life.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_27-13.wav|Take his garment when he puts up collateral for a stranger. Hold it for a wayward woman!|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_2-16.wav|"Yahweh God commanded the man, saying, ""Of every tree of the garden you may freely eat;"|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Joshua_22-6.wav|So Joshua blessed them, and sent them away; and they went to their tents.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_6-12.wav|And Yahweh has removed men far away, and the forsaken places are many in the midst of the land.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Joshua_22-21.wav|Then the children of Reuben and the children of Gad and the half-tribe of Manasseh answered, and spoke to the heads of the thousands of Israel,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(1)_16-17.wav|Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_24-16.wav|The young lady was very beautiful to look at, a virgin, neither had any man known her. She went down to the spring, filled her pitcher, and came up.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_7-20.wav|Therefore, by their fruits you will know them.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_80-13.wav|The boar out of the wood ravages it. The wild animals of the field feed on it.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_19-23.wav|"Moses said to Yahweh, ""The people can't come up to Mount Sinai, for you charged us, saying, 'Set bounds around the mountain, and sanctify it.'"""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_16-22.wav|The goat shall carry all their iniquities on himself to a solitary land, and he shall let the goat go in the wilderness.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Galatians_4-13.wav|but you know that because of weakness of the flesh I preached the Good News to you the first time.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_119-136.wav|Streams of tears run down my eyes, because they don't observe your law.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_51-10.wav|Isn't it you who dried up the sea, the waters of the great deep; who made the depths of the sea a way for the redeemed to pass over?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_6-23.wav|or, 'Deliver me from the adversary's hand?' or, 'Redeem me from the hand of the oppressors?'|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Deuteronomy_12-9.wav|for you haven't yet come to the rest and to the inheritance, which Yahweh your God gives you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_12-7.wav|"Yahweh appeared to Abram and said, ""I will give this land to your seed."" He built an altar there to Yahweh, who appeared to him."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_32-39.wav|and I will give them one heart and one way, that they may fear me forever, for the good of them, and of their children after them:|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Zechariah_9-3.wav|Tyre built herself a stronghold, and heaped up silver like the dust, and fine gold like the mire of the streets.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ruth_3-18.wav|"Then said she, ""Sit still, my daughter, until you know how the matter will fall; for the man will not rest, until he has finished the thing this day."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_36-3.wav|and Basemath, Ishmael's daughter, sister of Nebaioth.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_24-3.wav|The earth will be utterly emptied and utterly laid waste; for Yahweh has spoken this word.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_7-17.wav|According to all these words, and according to all this vision, so did Nathan speak to David.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Joshua_12-10.wav|the king of Jerusalem, one; the king of Hebron, one;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hebrews_10-39.wav|But we are not of those who shrink back to destruction, but of those who have faith to the saving of the soul.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hebrews_11-32.wav|What more shall I say? For the time would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Mark_10-51.wav|"Jesus asked him, ""What do you want me to do for you?"" The blind man said to him, ""Rhabboni, that I may see again."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(1)_8-41.wav|Moreover concerning the foreigner, who is not of your people Israel, when he shall come out of a far country for your name's sake|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_24-45.wav|Then he opened their minds, that they might understand the Scriptures.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Mark_13-29.wav|even so you also, when you see these things coming to pass, know that it is near, at the doors.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_19-4.wav|But before they lay down, the men of the city, the men of Sodom, surrounded the house, both young and old, all the people from every quarter.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Thessalonians(1)_1-4.wav|We know, brothers loved by God, that you are chosen,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_27-20.wav|Dedan was your trafficker in precious cloths for riding.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_18-5.wav|Whoever receives one such little child in my name receives me,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_22-6.wav|Then he called for Solomon his son, and charged him to build a house for Yahweh, the God of Israel.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_6-35.wav|then hear from heaven their prayer and their supplication, and maintain their cause.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_1-11.wav|"If they say, ""Come with us, Let's lay in wait for blood; let's lurk secretly for the innocent without cause;"|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_6-13.wav|Isn't it that I have no help in me, That wisdom is driven quite from me?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ephesians_5-27.wav|that he might present the assembly to himself gloriously, not having spot or wrinkle or any such thing; but that it should be holy and without blemish.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(2)_6-3.wav|We give no occasion of stumbling in anything, that our service may not be blamed,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_10-10.wav|The helpless are crushed. They collapse. They fall under his strength.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Timothy(1)_4-5.wav|For it is sanctified through the word of God and prayer.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(1)_16-21.wav|David came to Saul, and stood before him: and he loved him greatly; and he became his armor bearer.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_12-10.wav|Many shepherds have destroyed my vineyard, they have trodden my portion under foot, they have made my pleasant portion a desolate wilderness.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_34-15.wav|Yahweh's eyes are toward the righteous. His ears listen to their cry.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_12-10.wav|But the chief priests conspired to put Lazarus to death also,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Micah_1-3.wav|For, behold, Yahweh comes forth out of his place, and will come down and tread on the high places of the earth.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_30-19.wav|The way of an eagle in the air; the way of a serpent on a rock; the way of a ship in the midst of the sea; and the way of a man with a maiden.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_19-3.wav|"Moses went up to God, and Yahweh called to him out of the mountain, saying, ""This is what you shall tell the house of Jacob, and tell the children of Israel:"|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_14-19.wav|The evil bow down before the good, and the wicked at the gates of the righteous.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hebrews_3-19.wav|We see that they were not able to enter in because of unbelief.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_37-25.wav|I have been young, and now am old, yet I have not seen the righteous forsaken, nor his children begging for bread.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hosea_4-19.wav|The wind has wrapped her up in its wings; and they shall be disappointed because of their sacrifices.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_37-19.wav|Teach us what we shall tell him, for we can't make our case by reason of darkness.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_76-2.wav|His tent is also in Salem; His dwelling place in Zion.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(2)_17-12.wav|and they served idols, of which Yahweh had said to them, You shall not do this thing.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_2-1.wav|The word of Yahweh came to me, saying,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_5-34.wav|But the testimony which I receive is not from man. However, I say these things that you may be saved.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ephesians_3-9.wav|and to make all men see what is the administration of the mystery which for ages has been hidden in God, who created all things through Jesus Christ;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Titus_2-9.wav|Exhort servants to be in subjection to their own masters, and to be well-pleasing in all things; not contradicting;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_17-2.wav|even as you gave him authority over all flesh, he will give eternal life to all whom you have given him.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_105-13.wav|They went about from nation to nation, from one kingdom to another people.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_118-27.wav|Yahweh is God, and he has given us light. Bind the sacrifice with cords, even to the horns of the altar.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_22-7.wav|In my distress I called on Yahweh. Yes, I called to my God. He heard my voice out of his temple. My cry [came] into his ears.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Philemon_1-17.wav|If then you count me a partner, receive him as you would receive me.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_9-15.wav|and Bakbakkar, Heresh, and Galal, and Mattaniah the son of Mica, the son of Zichri, the son of Asaph,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hebrews_10-38.wav|"But the righteous will live by faith. If he shrinks back, my soul has no pleasure in him."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_17-7.wav|But who is there among you, having a servant plowing or keeping sheep, that will say, when he comes in from the field, 'Come immediately and sit down at the table,'|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_25-23.wav|for the sixteenth to Hananiah, his sons and his brothers, twelve:|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Revelation_9-21.wav|They didn't repent of their murders, nor of their sorceries, nor of their sexual immorality, nor of their thefts.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_22-25.wav|Now there were with us seven brothers. The first married and died, and having no seed left his wife to his brother.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_26-9.wav|He shall set his battering engines against your walls, and with his axes he shall break down your towers.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Obadiah_1-2.wav|Behold, I have made you small among the nations. You are greatly despised.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_148-12.wav|both young men and maidens; old men and children:|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_20-41.wav|"He said to them, ""Why do they say that the Christ is David's son?"|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Nehemiah_10-11.wav|Mica, Rehob, Hashabiah,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_24-21.wav|He who kills an animal shall make it good; and he who kills a man shall be put to death.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_8-2.wav|If you refuse to let them go, behold, I will plague all your borders with frogs:|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_16-9.wav|"Moses said to Aaron, ""Tell all the congregation of the children of Israel, 'Come near before Yahweh, for he has heard your murmurings.'"""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_143-7.wav|Hurry to answer me, Yahweh. My spirit fails. Don't hide your face from me, so that I don't become like those who go down into the pit.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Revelation_7-6.wav|of the tribe of Asher twelve thousand, of the tribe of Naphtali twelve thousand, of the tribe of Manasseh twelve thousand,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Galatians_4-25.wav|For this Hagar is Mount Sinai in Arabia, and answers to the Jerusalem that exists now, for she is in bondage with her children.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_23-27.wav|Abiezer the Anathothite, Mebunnai the Hushathite,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_40-28.wav|He put up the screen of the door to the tent.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_119-141.wav|I am small and despised. I don't forget your precepts.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Judges_9-50.wav|Then went Abimelech to Thebez, and encamped against Thebez, and took it.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Acts_4-31.wav|When they had prayed, the place was shaken where they were gathered together. They were all filled with the Holy Spirit, and they spoke the word of God with boldness.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Galatians_4-6.wav|"And because you are children, God sent out the Spirit of his Son into your hearts, crying, ""Abba, Father!"""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_11-28.wav|"When she had said this, she went away, and called Mary, her sister, secretly, saying, ""The Teacher is here, and is calling you."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_6-29.wav|"that Yahweh spoke to Moses, saying, ""I am Yahweh. Speak to Pharaoh king of Egypt all that I speak to you."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(2)_31-9.wav|Then Hezekiah questioned the priests and the Levites concerning the heaps.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_34-14.wav|"and said to them, ""We can't do this thing, to give our sister to one who is uncircumcised; for that is a reproach to us."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(1)_6-2.wav|Don't you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_19-25.wav|"They said to him, 'Lord, he has ten minas!'|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_8-31.wav|Yahweh did according to the word of Moses, and he removed the swarms of flies from Pharaoh, from his servants, and from his people. There remained not one.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_23-3.wav|The Levites were numbered from thirty years old and upward: and their number by their polls, man by man, was thirty-eight thousand.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Numbers_22-27.wav|The donkey saw the angel of Yahweh, and she lay down under Balaam: and Balaam's anger was kindled, and he struck the donkey with his staff.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/James_3-5.wav|So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest!|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Judges_16-30.wav|Samson said, Let me die with the Philistines. He bowed himself with all his might; and the house fell on the lords, and on all the people who were therein. So the dead that he killed at his death were more than those who he killed in his life.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hosea_2-6.wav|Therefore, behold, I will hedge up your way with thorns, and I will build a wall against her, that she can't find her way.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(1)_4-33.wav|He spoke of trees, from the cedar that is in Lebanon even to the hyssop that springs out of the wall; he spoke also of animals, and of birds, and of creeping things, and of fish.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_35-5.wav|Look to the heavens, and see. See the skies, which are higher than you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_119-121.wav|I have done what is just and righteous. Don't leave me to my oppressors.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_2-48.wav|Maacah, Caleb's concubine, bore Sheber and Tirhanah.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Habakkuk_3-11.wav|The sun and moon stood still in the sky, at the light of your arrows as they went, at the shining of your glittering spear.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_23-33.wav|When this people, or the prophet, or a priest, shall ask you, saying, What is the burden of Yahweh? then shall you tell them, What burden! I will cast you off, says Yahweh.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_19-22.wav|Hurry, escape there, for I can't do anything until you get there. Therefore the name of the city was called Zoar."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Nehemiah_12-32.wav|and after them went Hoshaiah, and half of the princes of Judah,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_8-29.wav|In Gibeon there lived the father of Gibeon, [Jeiel], whose wife's name was Maacah;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Revelation_12-1.wav|A great sign was seen in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_8-12.wav|He poured some of the anointing oil on Aaron's head, and anointed him, to sanctify him.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_26-33.wav|"But Peter answered him, ""Even if all will be made to stumble because of you, I will never be made to stumble."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_25-7.wav|Then all those virgins arose, and trimmed their lamps.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_18-33.wav|He makes my feet like deer's feet, and sets me on my high places.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_16-9.wav|I tell you, make for yourselves friends by means of unrighteous mammon, so that when you fail, they may receive you into the eternal tents.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_19-24.wav|But in the fourth year all its fruit shall be holy, for giving praise to Yahweh.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Prov_2-20.wav|that you may walk in the way of good men, and keep the paths of the righteous.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_14-22.wav|Immediately Jesus made the disciples get into the boat, and to go ahead of him to the other side, while he sent the multitudes away.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_18-16.wav|He sent from on high. He took me. He drew me out of many waters.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Daniel_6-1.wav|It pleased Darius to set over the kingdom one hundred twenty satraps, who should be throughout the whole kingdom;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Mark_14-41.wav|"He came the third time, and said to them, ""Sleep on now, and take your rest. It is enough. The hour has come. Behold, the Son of Man is betrayed into the hands of sinners."|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Jeremiah_48-23.wav|and on Kiriathaim, and on Beth Gamul, and on Beth Meon,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_107-25.wav|For he commands, and raises the stormy wind, which lifts up its waves.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_9-24.wav|The earth is given into the hand of the wicked. He covers the faces of the judges of it. If not he, then who is it?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Numbers_7-7.wav|He gave two wagons and four oxen to the sons of Gershon, according to their service:|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(1)_3-21.wav|Therefore let no one boast in men. For all things are yours,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Kings(2)_19-31.wav|For out of Jerusalem shall go forth a remnant, and out of Mount Zion those who shall escape: the zeal of Yahweh shall perform this.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_3-8.wav|"The wind blows where it wants to, and you hear its sound, but don't know where it comes from and where it is going. So is everyone who is born of the Spirit."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_13-1.wav|Abram went up out of Egypt: he, his wife, all that he had, and Lot with him, into the South.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(1)_7-28.wav|But if you marry, you have not sinned. If a virgin marries, she has not sinned. Yet such will have oppression in the flesh, and I want to spare you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/John_3-33.wav|He who has received his witness has set his seal to this, that God is true.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_37-19.wav|They shall not be disappointed in the time of evil. In the days of famine they shall be satisfied.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezra_8-1.wav|Now these are the heads of their fathers' [houses], and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king:|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Acts_17-33.wav|Thus Paul went out from among them.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_3-36.wav|the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_17-6.wav|The priest shall sprinkle the blood on the altar of Yahweh at the door of the Tent of Meeting, and burn the fat for a sweet savor to Yahweh.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_1-24.wav|Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Colossians_2-8.wav|Be careful that you don't let anyone rob you through his philosophy and vain deceit, after the tradition of men, after the elements of the world, and not after Christ.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_19-7.wav|"They asked him, ""Why then did Moses command us to give her a bill of divorce, and divorce her?"""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Hebrews_10-33.wav|partly, being exposed to both reproaches and oppressions; and partly, becoming partakers with those who were treated so.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Matt_26-61.wav|"and said, ""This man said, 'I am able to destroy the temple of God, and to build it in three days.'"""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Samuel(2)_22-39.wav|I have consumed them, and struck them through, so that they can't arise. Yes, they have fallen under my feet.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Joshua_18-3.wav|Joshua said to the children of Israel, How long are you slack to go in to possess the land, which Yahweh, the God of your fathers, has given you?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Luke_4-44.wav|He was preaching in the synagogues of Galilee.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Joshua_10-8.wav|Yahweh said to Joshua, Don't fear them: for I have delivered them into your hands; there shall not a man of them stand before you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezra_2-10.wav|The children of Bani, six hundred forty-two.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_19-3.wav|She brought up one of her cubs: he became a young lion, and he learned to catch the prey; he devoured men.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_17-15.wav|where then is my hope? as for my hope, who shall see it?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Acts_22-29.wav|Immediately those who were about to examine him departed from him, and the commanding officer also was afraid when he realized that he was a Roman, because he had bound him.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Corinthians(1)_9-7.wav|What soldier ever serves at his own expense? Who plants a vineyard, and doesn't eat of its fruit? Or who feeds a flock, and doesn't drink from the flock's milk?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Job_6-24.wav|"Teach me, and I will hold my peace. Cause me to understand wherein I have erred.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_34-10.wav|The young lions do lack, and suffer hunger, but those who seek Yahweh shall not lack any good thing.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Leviticus_16-14.wav|He shall take some of the blood of the bull, and sprinkle it with his finger on the mercy seat on the east; and before the mercy seat he shall sprinkle some of the blood with his finger seven times.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Chronicles(1)_24-17.wav|the twenty-first to Jachin, the twenty-second to Gamul,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_32-15.wav|Until the Spirit is poured on us from on high, and the wilderness becomes a fruitful field, and the fruitful field is considered a forest.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Psalm_63-9.wav|But those who seek my soul, to destroy it, shall go into the lower parts of the earth.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Isaiah_17-11.wav|In the day of your planting, you hedge it in. In the morning, you make your seed blossom, but the harvest flees away in the day of grief and of desperate sorrow.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Romans_15-10.wav|Again he says, Rejoice, you Gentiles, with his people."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Genesis_43-12.wav|and take double money in your hand, and take back the money that was returned in the mouth of your sacks. Perhaps it was an oversight.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Exodus_4-29.wav|Moses and Aaron went and gathered together all the elders of the children of Israel.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_18-27.wav|Again, when the wicked man turns away from his wickedness that he has committed, and does that which is lawful and right, he shall save his soul alive.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Ezekiel_23-43.wav|Then said I of her who was old in adulteries, Now will they play the prostitute with her, and she [with them].|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/train/Joel_3-11.wav|"Hurry and come, all you surrounding nations, and gather yourselves together."" Cause your mighty ones to come down there, Yahweh."|0

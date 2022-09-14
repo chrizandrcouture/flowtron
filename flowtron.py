@@ -725,8 +725,10 @@ class AR_Step(torch.nn.Module):
 
         output = None
         attn = None
-        dummy = torch.cuda.FloatTensor(
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        dummy = torch.FloatTensor(
             1, residual.size(1), residual.size(2)).zero_()
+        dummy = dummy.to(device)
         for i in range(0, residual.size(0)):
             if i == 0:
                 attention_hidden, (h, c) = self.attention_lstm(dummy)

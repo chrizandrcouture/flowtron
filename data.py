@@ -155,6 +155,7 @@ class Data(torch.utils.data.Dataset):
         return melspec
 
     def get_speaker_id(self, speaker_id):
+        # print(self.speaker_ids)
         return torch.LongTensor([self.speaker_ids[int(speaker_id)]])
 
     def get_text(self, text):
@@ -171,8 +172,8 @@ class Data(torch.utils.data.Dataset):
         audiopath, text, speaker_id = self.audiopaths_and_text[index]
         audio, sampling_rate = load_wav_to_torch(audiopath)
         if sampling_rate != self.sampling_rate:
-            raise ValueError("{} SR doesn't match target {} SR".format(
-                sampling_rate, self.sampling_rate))
+            raise ValueError("{} SR doesn't match target {} SR for file {}".format(
+                sampling_rate, self.sampling_rate, audiopath))
 
         mel = self.get_mel(audio)
         text_encoded = self.get_text(text)
@@ -182,7 +183,7 @@ class Data(torch.utils.data.Dataset):
             attn_prior = self.compute_attention_prior(
                 audiopath, mel.shape[1], text_encoded.shape[0])
 
-        return (mel, speaker_id, text_encoded, attn_prior)
+        return (mel, speaker_id, text_encoded, attn_prior, audiopath)
 
     def __len__(self):
         return len(self.audiopaths_and_text)
@@ -241,9 +242,9 @@ class DataCollate():
                     i,
                     :cur_attn_prior.size(0),
                     :cur_attn_prior.size(1)] = cur_attn_prior
-
+        paths = [x[-1] for x in batch]
         return (mel_padded, speaker_ids, text_padded, input_lengths,
-                output_lengths, gate_padded, attn_prior_padded)
+                output_lengths, gate_padded, attn_prior_padded, paths)
 
 
 # ===================================================================

@@ -39,19 +39,20 @@ from scipy.io.wavfile import write
 
 
 def infer(flowtron_path, waveglow_path, output_dir, text, speaker_id, n_frames,
-          sigma, gate_threshold, seed):
+          sigma, gate_threshold, seed, device):
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)
 
     # load waveglow
-    waveglow = torch.load(waveglow_path)['model'].cuda().eval()
-    waveglow.cuda()
+    # pdb.set_trace()
+    waveglow = torch.load(waveglow_path, map_location=device)['model'].to(device).eval()
+    waveglow = waveglow.to(device)
     for k in waveglow.convinv:
         k.float()
     waveglow.eval()
 
     # load flowtron
-    model = Flowtron(**model_config).cuda()
+    model = Flowtron(**model_config).to(device)
     state_dict = torch.load(flowtron_path, map_location='cpu')['model'].state_dict()
     model.load_state_dict(state_dict)
     model.eval()
@@ -61,13 +62,14 @@ def infer(flowtron_path, waveglow_path, output_dir, text, speaker_id, n_frames,
     trainset = Data(
         data_config['training_files'],
         **dict((k, v) for k, v in data_config.items() if k not in ignore_keys))
-    speaker_vecs = trainset.get_speaker_id(speaker_id).cuda()
-    text = trainset.get_text(text).cuda()
+    speaker_vecs = trainset.get_speaker_id(speaker_id).to(device)
+    text = trainset.get_text(text).to(device)
     # pdb.set_trace()
     speaker_vecs = speaker_vecs[None]
     text = text[None]
     with torch.no_grad():
-        residual = torch.cuda.FloatTensor(1, 80, n_frames).normal_() * sigma
+        residual = torch.FloatTensor(1, 80, n_frames).normal_() * sigma
+        residual = residual.to(device)
         mels, attentions = model.infer(
             residual, speaker_vecs, text, gate_threshold=gate_threshold)
 
@@ -128,7 +130,8 @@ if __name__ == "__main__":
         os.makedirs(args.output_dir)
         os.chmod(args.output_dir, 0o775)
 
-    torch.backends.cudnn.enabled = True
+    torch.backends.cudnn.enabled = False
     torch.backends.cudnn.benchmark = False
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     infer(args.flowtron_path, args.waveglow_path, args.output_dir, args.text,
-          args.id, args.n_frames, args.sigma, args.gate, args.seed)
+          args.id, args.n_frames, args.sigma, args.gate, args.seed, device=device)

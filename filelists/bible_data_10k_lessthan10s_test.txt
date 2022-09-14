@@ -1,0 +1,19 @@
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Chronicles(2)_2-15.wav|Now therefore the wheat and the barley, the oil and the wine, which my lord has spoken of, let him send to his servants:|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/John_10-15.wav|even as the Father knows me, and I know the Father. I lay down my life for the sheep.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Isaiah_34-9.wav|Its streams will be turned into pitch, its dust into sulfur, And its land will become burning pitch.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Acts_18-11.wav|He lived there a year and six months, teaching the word of God among them.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Kings(2)_10-34.wav|Now the rest of the acts of Jehu, and all that he did, and all his might, aren't they written in the book of the chronicles of the kings of Israel?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Numbers_18-10.wav|As the most holy things shall you eat of it; every male shall eat of it: it shall be holy to you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Matt_21-39.wav|So they took him, and threw him out of the vineyard, and killed him.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/John_11-46.wav|But some of them went away to the Pharisees, and told them the things which Jesus had done.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Deuteronomy_13-11.wav|All Israel shall hear, and fear, and shall not do any more such wickedness as this is in the midst of you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Romans_9-11.wav|For being not yet born, neither having done anything good or bad, that the purpose of God according to election might stand, not of works, but of him who calls,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Numbers_4-1.wav|Yahweh spoke to Moses and to Aaron, saying,|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Corinthians(2)_12-15.wav|I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less?|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Matt_13-9.wav|"He who has ears to hear, let him hear."""|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Matt_12-28.wav|But if I by the Spirit of God cast out demons, then the Kingdom of God has come upon you.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Acts_13-7.wav|who was with the proconsul, Sergius Paulus, a man of understanding. This man summoned Barnabas and Saul, and sought to hear the word of God.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Daniel_12-3.wav|Those who are wise shall shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Samuel(1)_20-39.wav|But the boy didn't know anything: only Jonathan and David knew the matter.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Matt_13-42.wav|and will cast them into the furnace of fire. There will be weeping and the gnashing of teeth.|0
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test/Nehemiah_11-32.wav|at Anathoth, Nob, Ananiah,|0

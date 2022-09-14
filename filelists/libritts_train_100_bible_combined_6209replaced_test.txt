@@ -21,10 +21,8 @@
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/4406/16883/4406_16883_000024_000000.wav|THE FIFTEENTH REMOVE|4406
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/4640/19187/4640_19187_000038_000001.wav|He returned from his sombre eagle flight into outer darkness.|4640
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/1502/122615/1502_122615_000004_000001.wav|Slowly and reluctantly yielding to the necessity, he quitted the place, and mingled with the throng that hovered nigh.|1502
-/app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/6209/34601/6209_34601_000068_000030.wav|I was alone.|6209
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/7190/90542/7190_90542_000054_000000.wav|We took rooms at a hotel in Medworth, Quarles explaining that our investigations might take some days.|7190
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/7226/86964/7226_86964_000007_000002.wav|The latter made a pretty picture standing out on the bold bank, backed by a number of huge stacks of golden straw.|7226
-/app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/6209/34601/6209_34601_000096_000023.wav|What a hurricane!|6209
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/4406/16882/4406_16882_000018_000002.wav|About two hours in the night, my sweet babe like a lamb departed this life on Feb. 18, 1675.|4406
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/6818/68772/6818_68772_000008_000000.wav|After luncheon began the speech-making, interspersed with music by the band.|6818
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/5022/29411/5022_29411_000058_000009.wav|My mother whispered to me--I thanked the little mill-girl, and gave her a kiss.|5022
@@ -78,7 +76,6 @@
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/87/121553/87_121553_000058_000000.wav|Let him the mouth imagine of the horn That in the point beginneth of the axis Round about which the primal wheel revolves,--|87
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/3526/176653/3526_176653_000006_000000.wav|Her eyes fell at the ancient banter, but she lifted them straightway and stared again.|3526
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/8629/261139/8629_261139_000031_000000.wav|"I have made an assertion," said he, "before God and before this jury. To make it seem a credible one I shall have to tell my own story from the beginning.|8629
-/app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/6209/34601/6209_34601_000096_000042.wav|Besides, the laws are violated.|6209
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/3526/176651/3526_176651_000012_000000.wav|She sat at the base of the big tree--her little sunbonnet pushed back, her arms locked about her knees, her bare feet gathered under her crimson gown and her deep eyes fixed on the smoke in the valley below. Her breath was still coming fast between her parted lips.|3526
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/7402/90848/7402_90848_000024_000003.wav|It was very dignified and wore tortoise-shell glasses."|7402
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/118/47824/118_47824_000036_000000.wav|"Good morning.|118
@@ -88,7 +85,6 @@
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/5339/14134/5339_14134_000047_000001.wav|'Liking has nought to do with it.'|5339
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/2289/152258/2289_152258_000017_000000.wav|Mohammed was very earnest and serious.|2289
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/8098/275181/8098_275181_000020_000006.wav|But Tom overcame me forthwith, choked me nearly black in the face, then, in dumb show, knocked my head with a stone.|8098
-/app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/6209/34599/6209_34599_000025_000003.wav|An iron knocker was attached to it.|6209
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/2836/5355/2836_5355_000072_000001.wav|Count them."|2836
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/5750/100289/5750_100289_000023_000000.wav|Bishop Whipple developed many able preachers, of whom perhaps the most accomplished was the Rev. Charles Smith Cook, of the Yankton Sioux.|5750
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/1970/26100/1970_26100_000068_000000.wav|"Then Mr. Woods wasn't here all through dinner, Jackson?"|1970
@@ -178,3 +174,22 @@
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/4160/14187/4160_14187_000035_000001.wav|"A sound thinker gives equal consideration to the probable and the improbable."|4160
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/4297/13009/4297_13009_000003_000003.wav|They were habitually indifferent to self-exaltation, and allowed themselves to be thrust into this or that unfitting role, professing that the Queen's Government and the good of the country were their only considerations.|4297
 /app/chris/flowtron/data/libretts/LibriTTS/train-clean-100/1116/132847/1116_132847_000014_000003.wav|The stick I shall keep for myself, so that I can fly to you if ever you have need of me.'|1116
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Chronicles(2)_2-15.wav|Now therefore the wheat and the barley, the oil and the wine, which my lord has spoken of, let him send to his servants:|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/John_10-15.wav|even as the Father knows me, and I know the Father. I lay down my life for the sheep.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Isaiah_34-9.wav|Its streams will be turned into pitch, its dust into sulfur, And its land will become burning pitch.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Acts_18-11.wav|He lived there a year and six months, teaching the word of God among them.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Kings(2)_10-34.wav|Now the rest of the acts of Jehu, and all that he did, and all his might, aren't they written in the book of the chronicles of the kings of Israel?|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Numbers_18-10.wav|As the most holy things shall you eat of it; every male shall eat of it: it shall be holy to you.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Matt_21-39.wav|So they took him, and threw him out of the vineyard, and killed him.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/John_11-46.wav|But some of them went away to the Pharisees, and told them the things which Jesus had done.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Deuteronomy_13-11.wav|All Israel shall hear, and fear, and shall not do any more such wickedness as this is in the midst of you.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Romans_9-11.wav|For being not yet born, neither having done anything good or bad, that the purpose of God according to election might stand, not of works, but of him who calls,|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Numbers_4-1.wav|Yahweh spoke to Moses and to Aaron, saying,|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Corinthians(2)_12-15.wav|I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less?|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Matt_13-9.wav|"He who has ears to hear, let him hear."""|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Matt_12-28.wav|But if I by the Spirit of God cast out demons, then the Kingdom of God has come upon you.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Acts_13-7.wav|who was with the proconsul, Sergius Paulus, a man of understanding. This man summoned Barnabas and Saul, and sought to hear the word of God.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Daniel_12-3.wav|Those who are wise shall shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Samuel(1)_20-39.wav|But the boy didn't know anything: only Jonathan and David knew the matter.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Matt_13-42.wav|and will cast them into the furnace of fire. There will be weeping and the gnashing of teeth.|6209
+/app/chris/flowtron/tacotron2/waveglow/data/bible_data/test_24khz_fine/Nehemiah_11-32.wav|at Anathoth, Nob, Ananiah,|6209

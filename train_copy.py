@@ -22,6 +22,7 @@ import torch
 from torch.utils.data import DataLoader
 from torch.cuda import amp
 import ast
+from tqdm import tqdm
 
 from flowtron import FlowtronLoss
 from flowtron import Flowtron
@@ -80,7 +81,7 @@ def prepare_dataloaders(data_config, n_gpus, batch_size):
 
     train_loader = DataLoader(trainset, num_workers=1, shuffle=shuffle,
                               sampler=train_sampler, batch_size=batch_size,
-                              pin_memory=False, drop_last=True,
+                              pin_memory=False, drop_last=False,
                               collate_fn=collate_fn)
 
     return train_loader, valset, collate_fn
@@ -163,7 +164,7 @@ def compute_validation_loss(model, criterion, valset, batch_size,
         for i, batch in enumerate(val_loader):
             # print("Val iter:", i)
             (mel, spk_ids, txt, in_lens, out_lens,
-                gate_target, attn_prior, paths) = batch
+                gate_target, attn_prior) = batch
             mel, spk_ids, txt = mel.cuda(), spk_ids.cuda(), txt.cuda()
             in_lens, out_lens = in_lens.cuda(), out_lens.cuda()
             gate_target = gate_target.cuda()
@@ -220,177 +221,26 @@ def train(n_gpus, rank, output_directory, epochs, optim_algo, learning_rate,
     use_ctc_loss = bool(use_ctc_loss)
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)
-    if n_gpus > 1:
-        init_distributed(rank, n_gpus, **dist_config)
-
-    criterion = FlowtronLoss(sigma, bool(model_config['n_components']),
-                             gate_loss, use_ctc_loss, ctc_loss_weight,
-                             blank_logprob)
-    model = Flowtron(**model_config).cuda()
-
-    if len(finetune_layers):
-        for name, param in model.named_parameters():
-            if name in finetune_layers:
-                param.requires_grad = True
-            else:
-                param.requires_grad = False
-            print(name, param.requires_grad)
-    # pdb.set_trace()
-    print("Initializing %s optimizer" % (optim_algo))
-    if optim_algo == 'Adam':
-        optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate,
-                                     weight_decay=weight_decay)
-    elif optim_algo == 'RAdam':
-        optimizer = RAdam(model.parameters(), lr=learning_rate,
-                          weight_decay=weight_decay)
-    else:
-        print("Unrecognized optimizer %s!" % (optim_algo))
-        exit(1)
-
-    # Load checkpoint if one exists
-    iteration = 0
-    if warmstart_checkpoint_path != "":
-        model = warmstart(warmstart_checkpoint_path, model)
-
-    if checkpoint_path != "":
-        model, optimizer, iteration = load_checkpoint(checkpoint_path, model,
-                                                      optimizer, ignore_layers)
-        iteration += 1  # next iteration is iteration + 1
-
-    if n_gpus > 1:
-        model = apply_gradient_allreduce(model)
-    print(model)
-    scaler = amp.GradScaler(enabled=fp16_run)
 
     train_loader, valset, collate_fn = prepare_dataloaders(
         data_config, n_gpus, batch_size)
 
-    # Get shared output_directory ready
-    if rank == 0 and not os.path.isdir(output_directory):
-        os.makedirs(output_directory)
-        os.chmod(output_directory, 0o775)
-        print("Output directory", output_directory)
-
-    if with_tensorboard and rank == 0:
-        tboard_out_path = os.path.join(output_directory, 'logs')
-        print("Setting up Tensorboard log in %s" % (tboard_out_path))
-        logger = FlowtronLogger(tboard_out_path)
-
-    # force set the learning rate to what is specified
-    for param_group in optimizer.param_groups:
-        param_group['lr'] = learning_rate
-
-    model.train()
+    iteration = 0
     epoch_offset = max(0, int(iteration / len(train_loader)))
     apply_ctc = False
-    output = open("to_remove.txt", "a")
+    output = open("to_remove.txt", "w")
     # ================ MAIN TRAINNIG LOOP! ===================
     for epoch in range(epoch_offset, epochs):
         print("Epoch: {}".format(epoch))
-        for batch in train_loader:
-            model.zero_grad()
+        for batch in tqdm(train_loader):
             (mel, spk_ids, txt, in_lens, out_lens,
                 gate_target, attn_prior, paths) = batch
-            mel, spk_ids, txt = mel.cuda(), spk_ids.cuda(), txt.cuda()
-            in_lens, out_lens = in_lens.cuda(), out_lens.cuda()
-            gate_target = gate_target.cuda()
-            attn_prior = attn_prior.cuda() if attn_prior is not None else None
-
-            if use_ctc_loss and iteration >= ctc_loss_start_iter:
-                apply_ctc = True
-            with amp.autocast(enabled=fp16_run):
-                try:
-                    (z, log_s_list, gate_pred, attn,
-                     attn_logprob, mean, log_var, prob) = model(
-                     mel, spk_ids, txt, in_lens, out_lens, attn_prior)
-                except ValueError:
-                    output.write("\n".join(paths))
-                    output.flush()
-                    continue
-
-                loss_nll, loss_gate, loss_ctc = criterion(
-                    (z, log_s_list, gate_pred, attn,
-                        attn_logprob, mean, log_var, prob),
-                    gate_target, in_lens, out_lens, is_validation=False)
-                loss = loss_nll + loss_gate
-
-                if apply_ctc:
-                    loss += loss_ctc * criterion.ctc_loss_weight
-
-            if n_gpus > 1:
-                reduced_loss = reduce_tensor(loss.data, n_gpus).item()
-                reduced_gate_loss = reduce_tensor(
-                    loss_gate.data,
-                    n_gpus).item()
-                reduced_mle_loss = reduce_tensor(
-                    loss_nll.data,
-                    n_gpus).item()
-                reduced_ctc_loss = reduce_tensor(
-                    loss_ctc.data,
-                    n_gpus).item()
-            else:
-                reduced_loss = loss.item()
-                reduced_gate_loss = loss_gate.item()
-                reduced_mle_loss = loss_nll.item()
-                reduced_ctc_loss = loss_ctc.item()
-
-            scaler.scale(loss).backward()
-            if grad_clip_val > 0:
-                scaler.unscale_(optimizer)
-                torch.nn.utils.clip_grad_norm_(
-                    model.parameters(),
-                    grad_clip_val)
-
-            scaler.step(optimizer)
-            scaler.update()
-
-            if rank == 0:
-                print("Loss, \titer {}:\t{}".format(iteration, reduced_loss))
-                # pdb.set_trace()
-                # print("{}:\t{}".format(
-                #     iteration,
-                #     reduced_loss))
-
-            if with_tensorboard and rank == 0:
-                logger.add_scalar('training/loss', reduced_loss, iteration)
-                logger.add_scalar(
-                    'training/loss_gate',
-                    reduced_gate_loss,
-                    iteration)
-                logger.add_scalar(
-                    'training/loss_nll',
-                    reduced_mle_loss,
-                    iteration)
-                logger.add_scalar(
-                    'training/loss_ctc',
-                    reduced_ctc_loss,
-                    iteration)
-                logger.add_scalar(
-                    'learning_rate',
-                    learning_rate,
-                    iteration)
-
-            if iteration % iters_per_checkpoint == 0:
-                print("Computing validation Loss")
-                (val_loss, val_loss_nll, val_loss_gate, val_loss_ctc,
-                    attns, gate_pred, gate_target) = \
-                    compute_validation_loss(model, criterion, valset,
-                                            batch_size, n_gpus, apply_ctc)
-                if rank == 0:
-                    print("Validation loss {}: {:9f}  ".format(
-                        iteration, val_loss))
-                    if with_tensorboard:
-                        logger.log_validation(
-                            val_loss, val_loss_nll,
-                            val_loss_gate, val_loss_ctc,
-                            attns, gate_pred, gate_target, iteration)
-
-                    checkpoint_path = "{}/finetuned_flow2_model_{}".format(
-                        output_directory, iteration)
-                    save_checkpoint(model, optimizer, learning_rate, iteration,
-                                    checkpoint_path)
-
-            iteration += 1
+            for i, x in enumerate(in_lens):
+                if x.item() <= 1:
+                    output.write(f"{paths[i]}\n")
+                    print(paths[i])
+        output.close()
+        pdb.set_trace()
 
 
 if __name__ == "__main__":
